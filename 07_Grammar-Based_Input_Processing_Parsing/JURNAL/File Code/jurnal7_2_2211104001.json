@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+      "firstName": "Devrin",
+      "lastName": "Anggun Saputri",
+      "gender": "female",
+      "age": 20,
+      "nim": "2211104001"
+    },
+    {
+      "firstName": "Gideon",
+      "lastName": "Toranawa Ladiyo",
+      "gender": "male",
+      "age": 19,
+      "nim": "2211104022"
+    },
+    {
+       "firstName": "Atika",
+       "lastName": "Aji Hadiyani",
+       "gender": "female",
+       "age": 20,
+       "nim": "2211104001"
+    }
+  ]
+}
