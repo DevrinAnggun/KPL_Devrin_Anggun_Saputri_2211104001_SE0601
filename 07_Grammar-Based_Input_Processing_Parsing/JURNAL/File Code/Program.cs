@@ -6,11 +6,19 @@ namespace jurnal_modul7
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("=== Data Mahasiswa===\n");
 
-            Console.WriteLine("=== Member List ===\n");
+            // Memanggil method ReadJSON() dari class DataMahasiswa2211104001
+            DataMahasiswa2211104001.ReadJSON();
+
+            Console.WriteLine("=== Data Anggota Tim  ===\n");
 
             // Memanggil method ReadJSON() dari class TeamMahasiswa2211104001
             TeamMembers2211104001.ReadJSON();
+
+            Console.WriteLine("=== Glosarry Item ===\n");
+            // Memanggil method ReadJSON() dari class TeamMahasiswa2211104001
+            GlossaryItem2211104001.ReadJSON();
         }
     }
 }
