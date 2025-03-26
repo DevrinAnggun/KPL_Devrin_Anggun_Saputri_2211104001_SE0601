@@ -1,0 +1,21 @@
+{
+  "firstName": "Devrin",
+  "lastName": "Anggun Saputri",
+  "gender": "Perempuan",
+  "age": 20,
+  "address": {
+    "streetAddress": "Karangtengah",
+    "city": "Banjarnegara",
+    "state": "Central Java"
+  },
+  "courses": [
+    {
+      "code": "CCK2KAB4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2DAB3",
+      "name": "Proses Perangkat Lunak"
+    }
+  ]
+}
