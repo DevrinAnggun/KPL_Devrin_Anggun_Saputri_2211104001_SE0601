@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\views\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\views\\home\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\views\\home\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\views\\home\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\resources\\sharedresource.fr-fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\resources\\sharedresource.fr-fr.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\resources\\sharedresource.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\resources\\sharedresource.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\services\\languageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\services\\languageservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|c:\\users\\lenovo\\downloads\\localization\\localization\\localization\\localization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26C00B67-2182-4EC1-8003-7D8433CA2679}|localization\\localization.csproj|solutionrelative:localization\\localization.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "localization\\Views\\Home\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Index.cshtml.cs",
+              "RelativeToolTip": "localization\\Views\\Home\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:04:43.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "localization\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "localization\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T01:47:44.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "localization\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\_ViewImports.cshtml",
+              "RelativeToolTip": "localization\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T02:24:54.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "localization\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "localization\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T01:48:55.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "localization\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "localization\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:26:44.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "localization\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "localization\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T02:13:26.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Program.cs",
+              "RelativeDocumentMoniker": "localization\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Program.cs",
+              "RelativeToolTip": "localization\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:12:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "localization\\Views\\Home\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Privacy.cshtml.cs",
+              "RelativeToolTip": "localization\\Views\\Home\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T03:16:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "localization\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "localization\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T02:14:19.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "localization\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "localization\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T01:47:54.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SharedResource.fr-FR.resx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Resources\\SharedResource.fr-FR.resx",
+              "RelativeDocumentMoniker": "localization\\Resources\\SharedResource.fr-FR.resx",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Resources\\SharedResource.fr-FR.resx",
+              "RelativeToolTip": "localization\\Resources\\SharedResource.fr-FR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-14T02:21:43.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SharedResource.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Resources\\SharedResource.en-US.resx",
+              "RelativeDocumentMoniker": "localization\\Resources\\SharedResource.en-US.resx",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Resources\\SharedResource.en-US.resx",
+              "RelativeToolTip": "localization\\Resources\\SharedResource.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-14T02:21:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LanguageServices.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Services\\LanguageServices.cs",
+              "RelativeDocumentMoniker": "localization\\Services\\LanguageServices.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\Services\\LanguageServices.cs",
+              "RelativeToolTip": "localization\\Services\\LanguageServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T02:07:23.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "localization.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\localization.csproj",
+              "RelativeDocumentMoniker": "localization\\localization.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\localization\\localization\\localization\\localization.csproj",
+              "RelativeToolTip": "localization\\localization.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T01:44:02.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
