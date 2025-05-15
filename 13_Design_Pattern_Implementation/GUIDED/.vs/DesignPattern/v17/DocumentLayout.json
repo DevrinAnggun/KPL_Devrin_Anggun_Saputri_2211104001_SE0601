@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\KPL\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|e:\\kpl\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|e:\\kpl\\designpattern\\designpattern\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|e:\\kpl\\designpattern\\designpattern\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|e:\\kpl\\designpattern\\designpattern\\singelton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB9AE02-CBB2-495D-A27C-C1BE665BD09A}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\singelton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Singelton.cs",
+              "DocumentMoniker": "E:\\KPL\\DesignPattern\\DesignPattern\\Singelton.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Singelton.cs",
+              "ToolTip": "E:\\KPL\\DesignPattern\\DesignPattern\\Singelton.cs",
+              "RelativeToolTip": "DesignPattern\\Singelton.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:10:28.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "E:\\KPL\\DesignPattern\\DesignPattern\\Adapter.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Adapter.cs",
+              "ToolTip": "E:\\KPL\\DesignPattern\\DesignPattern\\Adapter.cs",
+              "RelativeToolTip": "DesignPattern\\Adapter.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:10:17.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Command.cs",
+              "DocumentMoniker": "E:\\KPL\\DesignPattern\\DesignPattern\\Command.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Command.cs",
+              "ToolTip": "E:\\KPL\\DesignPattern\\DesignPattern\\Command.cs",
+              "RelativeToolTip": "DesignPattern\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:10:00.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\KPL\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
+              "ToolTip": "E:\\KPL\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeToolTip": "DesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:07:16.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
